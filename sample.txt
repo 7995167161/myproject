@@ -1,0 +1,10 @@
+<html>
+<head>
+<tilte>home page</title>
+</head>
+<body>
+<center>
+<h3> hello hai</h3>
+<p>Thanks for choosing devops course</p>
+</body>
+</html>
